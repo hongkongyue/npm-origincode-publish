@@ -1,0 +1,15 @@
+{
+  "name": "judge-type-tool",
+  "version": "1.0.0",
+  "description": "判断 js 数据 类型  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "判断js数据类型基本数据类型",
+    "引用数据类型"
+  ],
+  "author": "hongkunyue",
+  "license": "ISC"
+}

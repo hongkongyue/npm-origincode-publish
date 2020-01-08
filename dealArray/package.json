@@ -1,0 +1,16 @@
+{
+  "name": "deal-array-property",
+  "version": "1.0.1",
+  "description": "根据数组的某一项键值 返回 另一项键值 例如根据id 返回其他属性",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "数组",
+    "根据id或其他属性",
+    "返回另一项属性"
+  ],
+  "author": "hongkunyue",
+  "license": "ISC"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "distinguish-array-obj",
+  "version": "1.0.1",
+  "description": "数组对象去重",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "数组对象去重",
+    "去重"
+  ],
+  "author": "hongkunyue",
+  "license": "ISC"
+}

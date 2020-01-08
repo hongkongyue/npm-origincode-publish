@@ -1,0 +1,16 @@
+{
+  "name": "vue-tree-table-1",
+  "version": "1.0.1",
+  "description": "基于vue的树形table表格",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "树形嵌套表格",
+    "table"
+  ],
+  "author": "洪坤越",
+  "license": "ISC"
+}

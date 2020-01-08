@@ -1,0 +1,16 @@
+{
+  "name": "fetchparams",
+  "version": "1.0.3",
+  "description": "获取URL参数值，简单 方便",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "参数",
+    "取值"
+  ],
+  "author" : "hongkunyue",
+  "license": "ISC"
+}
